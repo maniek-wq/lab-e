@@ -1,0 +1,13 @@
+header {
+  background-color: darkblue;
+  font-family: cursive;
+}
+.router-outlet {
+  height: 70vh;
+}
+
+footer {
+  font-size: 24px;
+  background-color: green;
+  color: white;
+}
