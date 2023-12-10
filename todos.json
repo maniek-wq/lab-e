@@ -1,14 +1,42 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Hello World",
-      "deadline": "2023-01-01",
-      "completed": false,
-      "archived": false
+      "id": 3
     },
     {
-      "id": 3
+      "title": "hello world 2",
+      "deadline": "2023-12-23",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "zakupy",
+      "deadline": null,
+      "completed": true,
+      "archived": true,
+      "id": 6
+    },
+    {
+      "title": "zakupy",
+      "deadline": null,
+      "completed": true,
+      "archived": true,
+      "id": 7
+    },
+    {
+      "deadline": "2023-12-22T23:00:00.000Z",
+      "title": "zakupy",
+      "completed": false,
+      "archived": false,
+      "id": 8
+    },
+    {
+      "title": "new Task",
+      "deadline": "2023-12-20T23:00:00.000Z",
+      "completed": false,
+      "archived": false,
+      "id": 9
     }
   ]
 }

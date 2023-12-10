@@ -1,13 +1,18 @@
-header {
-  background-color: darkblue;
-  font-family: cursive;
-}
+
 .router-outlet {
-  height: 70vh;
+  min-height: 70vh;
 }
 
 footer {
-  font-size: 24px;
-  background-color: green;
-  color: white;
+  background-color: var(--primary-color);
+  color: var(--accent-color);
+  padding: 0.5em 1em;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-chip-listbox a {
+  text-decoration: none;
 }
